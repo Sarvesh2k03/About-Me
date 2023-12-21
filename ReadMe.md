@@ -1,5 +1,8 @@
-# 💫 About Me:
-I'm Currently learning computer science as a Main in SRMIST, and game development from edx Harvard.
+# About Me:
+* Computer Science - Junior year
+* SRM -'25
+* Semester Abroad program - University Of California, Davis
+* Front-end developer/ UI-UX Designer/ Data science and analytics enthusiast.
 
 
 ## 🌐 Socials:
